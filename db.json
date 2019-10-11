@@ -1,94 +1,79 @@
 {
-  "users":[
-  {
-    "UserId": 1,
-    "UserName": "harry@gmail.com",
-    "FirstName": "Harry",
-    "MiddleName": "M",
-    "LastName": "",
-    "EmailId": "harry@gmail.com",
-    "Mobile": "008",
-    "Phone": "05",
-    "UserTypeId": 9,
-    "UserStatusId": 18,
-    "UserTypeCode": null,
-    "UserTypeName": null,
-    "UserStatusName": null
-  },
-  {
-    "UserId": 122,
-    "UserName": "henry@gmail.com",
-    "FirstName": "Henry",
-    "MiddleName": null,
-    "LastName": "A",
-    "EmailId": "henry@gmail.com",
-    "Mobile": "0",
-    "Phone": null,
-    "UserTypeId": 9,
-    "UserStatusId": 18,
-    "UserTypeCode": null,
-    "UserTypeName": null,
-    "UserStatusName": null
-  },
-  {
-    "UserId": 123,
-    "UserName": "hank@gmail.com",
-    "FirstName": "Hank",
-    "MiddleName": null,
-    "LastName": "NZ",
-    "EmailId": "hank@gmail.com",
-    "Mobile": "123123",
-    "Phone": null,
-    "UserTypeId": 10,
-    "UserStatusId": 19,
-    "UserTypeCode": null,
-    "UserTypeName": null,
-    "UserStatusName": null
-  },
-  {
-    "UserId": 124,
-    "UserName": "halena@gmail.com",
-    "FirstName": "Halena",
-    "MiddleName": null,
-    "LastName": "HIJRI",
-    "EmailId": "halena@gmail.com",
-    "Mobile": "0",
-    "Phone": null,
-    "UserTypeId": 10,
-    "UserStatusId": 18,
-    "UserTypeCode": null,
-    "UserTypeName": null,
-    "UserStatusName": null
-  },
-  {
-    "UserId": 125,
-    "UserName": "john@gmail.com",
-    "FirstName": "John",
-    "MiddleName": null,
-    "LastName": "WEERAKOON",
-    "EmailId": "john@gmail.com",
-    "Mobile": "0",
-    "Phone": null,
-    "UserTypeId": 10,
-    "UserStatusId": 18,
-    "UserTypeCode": null,
-    "UserTypeName": null,
-    "UserStatusName": null
-  }
-],
-  "comments": [
+  "users": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "UserId": 1,
+      "UserName": "harry@gmail.com",
+      "FirstName": "Harry",
+      "MiddleName": "M",
+      "LastName": "",
+      "EmailId": "harry@gmail.com",
+      "Mobile": "008",
+      "Phone": "05",
+      "UserTypeId": 9,
+      "UserStatusId": 18,
+      "UserTypeCode": null,
+      "UserTypeName": null,
+      "UserStatusName": null
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "UserId": 122,
+      "UserName": "henry@gmail.com",
+      "FirstName": "Henry",
+      "MiddleName": null,
+      "LastName": "A",
+      "EmailId": "henry@gmail.com",
+      "Mobile": "0",
+      "Phone": null,
+      "UserTypeId": 9,
+      "UserStatusId": 18,
+      "UserTypeCode": null,
+      "UserTypeName": null,
+      "UserStatusName": null
+    },
+    {
+      "UserId": 123,
+      "UserName": "hank@gmail.com",
+      "FirstName": "Hank",
+      "MiddleName": null,
+      "LastName": "NZ",
+      "EmailId": "hank@gmail.com",
+      "Mobile": "123123",
+      "Phone": null,
+      "UserTypeId": 10,
+      "UserStatusId": 19,
+      "UserTypeCode": null,
+      "UserTypeName": null,
+      "UserStatusName": null
+    },
+    {
+      "UserId": 124,
+      "UserName": "halena@gmail.com",
+      "FirstName": "Halena",
+      "MiddleName": null,
+      "LastName": "HIJRI",
+      "EmailId": "halena@gmail.com",
+      "Mobile": "0",
+      "Phone": null,
+      "UserTypeId": 10,
+      "UserStatusId": 18,
+      "UserTypeCode": null,
+      "UserTypeName": null,
+      "UserStatusName": null
+    },
+    {
+      "UserId": 125,
+      "UserName": "john@gmail.com",
+      "FirstName": "John",
+      "MiddleName": null,
+      "LastName": "WEERAKOON",
+      "EmailId": "john@gmail.com",
+      "Mobile": "0",
+      "Phone": null,
+      "UserTypeId": 10,
+      "UserStatusId": 18,
+      "UserTypeCode": null,
+      "UserTypeName": null,
+      "UserStatusName": null
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
