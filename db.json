@@ -1,18 +1,81 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
+  "users": [
+{
+"UserId": 1,
+"UserName": "emsadmin@skf.com",
+"FirstName": "System",
+"MiddleName": "M",
+"LastName": "",
+"EmailId": "emsadmin@skf.com",
+"Mobile": "09003282008",
+"Phone": "09943455455",
+"UserTypeId": 9,
+"UserStatusId": 18,
+"UserTypeCode": null,
+"UserTypeName": null,
+"UserStatusName": null
+},
+{
+"UserId": 122,
+"UserName": "A.THIRUMURUGAN@SKF.COM",
+"FirstName": "THIRUMURUGAN",
+"MiddleName": null,
+"LastName": "A",
+"EmailId": "A.THIRUMURUGAN@SKF.COM",
+"Mobile": "0",
+"Phone": null,
+"UserTypeId": 9,
+"UserStatusId": 18,
+"UserTypeCode": null,
+"UserTypeName": null,
+"UserStatusName": null
+},
+{
+"UserId": 123,
+"UserName": "A.THIRUMURGAN@SKF.COM",
+"FirstName": "THIRUMURUGAN",
+"MiddleName": null,
+"LastName": "NZ",
+"EmailId": "A.THIRUMURGAN@SKF.COM",
+"Mobile": "123123",
+"Phone": null,
+"UserTypeId": 10,
+"UserStatusId": 19,
+"UserTypeCode": null,
+"UserTypeName": null,
+"UserStatusName": null
+},
+{
+"UserId": 124,
+"UserName": "AFDOL.HIJRI@SKF.COM",
+"FirstName": "AFDOL",
+"MiddleName": null,
+"LastName": "HIJRI",
+"EmailId": "AFDOL.HIJRI@SKF.COM",
+"Mobile": "0",
+"Phone": null,
+"UserTypeId": 10,
+"UserStatusId": 18,
+"UserTypeCode": null,
+"UserTypeName": null,
+"UserStatusName": null
+},
+{
+"UserId": 125,
+"UserName": "AJITH.WEERAKOON@SKF.COM",
+"FirstName": "AJITH",
+"MiddleName": null,
+"LastName": "WEERAKOON",
+"EmailId": "AJITH.WEERAKOON@SKF.COM",
+"Mobile": "0",
+"Phone": null,
+"UserTypeId": 10,
+"UserStatusId": 18,
+"UserTypeCode": null,
+"UserTypeName": null,
+"UserStatusName": null
+}
+],
   "comments": [
     {
       "id": 1,
