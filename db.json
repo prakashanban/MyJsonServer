@@ -3,8 +3,6 @@
     {
       "EquipmentId": 200389,
       "DriveUnitId": 153040,
-      "DESelectedCount": 0,
-      "NDESelectedCount": 0,
       "EquipmentName": "102 FEED CONVEYOR",
       "AssetId": 33482,
       "AssetCode": "MOEL01",
@@ -25,8 +23,6 @@
       "RotorBars": "",
       "Poles": "",
       "Slots": "",
-      "BearingDriveEndId": null,
-      "BearingNonDriveEndId": null,
       "PulleyDiaDrive": "",
       "PulleyDiaDriven": null,
       "BeltLength": "",
@@ -39,15 +35,18 @@
       "Active": "Y",
       "ManufactureYear": null,
       "FirstInstallationDate": null,
-      "OperationModeId": null
+      "OperationModeId": null,
+      "LineFrequencyId": null,
+      "SpeedTypeId": null,
+      "SensorProviderId": null,
+      "Min": null,
+      "Max": null
     }
   ],
   "Intermediate": [
     {
       "EquipmentId": 200389,
       "IntermediateUnitId": 24732,
-      "DESelectedCount": 0,
-      "NDESelectedCount": 0,
       "EquipmentName": "102 FEED CONVEYOR",
       "AssetId": 33294,
       "AssetCode": "SSKKSS",
@@ -69,8 +68,6 @@
       "BullGearTeeth": "",
       "Model": "",
       "Serial": "",
-      "BearingInputId": null,
-      "BearingOutputId": null,
       "MeanRepairManHours": 48.0000,
       "DownTimeCostPerHour": 10000.0000,
       "CostToRepair": 4000.0000,
@@ -78,6 +75,7 @@
       "Active": "Y",
       "ManufactureYear": null,
       "FirstInstallationDate": null,
+      "SensorProviderId": null,
       "OperationModeId": null
     }
   ],
@@ -85,8 +83,6 @@
     {
       "EquipmentId": 200389,
       "DrivenUnitId": 96260,
-      "DESelectedCount": 0,
-      "NDESelectedCount": 0,
       "EquipmentName": "102 FEED CONVEYOR",
       "AssetId": 28053,
       "AssetCode": "CVXX01",
@@ -105,8 +101,6 @@
       "Efficiency": "",
       "RatedDischargePressure": "",
       "CostPerUnit": "",
-      "BearingDriveEndId": null,
-      "BearingNonDriveEndId": null,
       "ImpellerVanes": "",
       "ImpellerVanesKW": "",
       "Stages": "",
@@ -119,13 +113,12 @@
       "Active": "Y",
       "ManufactureYear": null,
       "FirstInstallationDate": null,
+      "SensorProviderId": null,
       "OperationModeId": null
     },
     {
       "EquipmentId": 200389,
       "DrivenUnitId": 96263,
-      "DESelectedCount": 0,
-      "NDESelectedCount": 0,
       "EquipmentName": "102 FEED CONVEYOR",
       "AssetId": 28053,
       "AssetCode": "CVXX01",
@@ -144,8 +137,6 @@
       "Efficiency": "",
       "RatedDischargePressure": "",
       "CostPerUnit": "",
-      "BearingDriveEndId": null,
-      "BearingNonDriveEndId": null,
       "ImpellerVanes": "",
       "ImpellerVanesKW": "",
       "Stages": "",
@@ -158,6 +149,7 @@
       "Active": "Y",
       "ManufactureYear": null,
       "FirstInstallationDate": null,
+      "SensorProviderId": null,
       "OperationModeId": null
     }
   ],
@@ -168,6 +160,8 @@
       "UnitType": "Intermediate",
       "ShaftName": "Input shaft",
       "ShaftNumber": 1,
+      "DESelectedCount": 0,
+      "NDESelectedCount": 0,
       "DriveEnd": {
         "DriveShaftSideId": 1233,
         "ShaftSideId": 11,
@@ -179,7 +173,6 @@
             "Designation": "BEAM 012055-2RZ",
             "ManufacturerName": "SKF",
             "ManufacturerId": 1,
-            "$$hashKey": "uiGrid-01HU",
             "Active": "Y"
           },
           {
@@ -188,7 +181,6 @@
             "Designation": "BEAM 012055-2RZ",
             "ManufacturerName": "SKF",
             "ManufacturerId": 1,
-            "$$hashKey": "uiGrid-01HU",
             "Active": "Y"
           }
         ]
@@ -204,7 +196,6 @@
             "Designation": "BEAM 012055-2RZ",
             "ManufacturerName": "SKF",
             "ManufacturerId": 1,
-            "$$hashKey": "uiGrid-01HU",
             "Active": "Y"
           },
           {
@@ -213,7 +204,6 @@
             "Designation": "BEAM 012055-2RZ",
             "ManufacturerName": "SKF",
             "ManufacturerId": 1,
-            "$$hashKey": "uiGrid-01HU",
             "Active": "Y"
           }
         ]
@@ -225,6 +215,8 @@
       "UnitType": "Intermediate",
       "ShaftName": "Output shaft",
       "ShaftNumber": 2,
+      "DESelectedCount": 0,
+      "NDESelectedCount": 0,
       "DriveEnd": {
         "DriveShaftSideId": 1244,
         "ShaftSideId": 11,
@@ -236,7 +228,6 @@
             "Designation": "BEAM 012055-2RZ",
             "ManufacturerName": "SKF",
             "ManufacturerId": 1,
-            "$$hashKey": "uiGrid-01HU",
             "Active": "Y"
           },
           {
@@ -245,7 +236,6 @@
             "Designation": "BEAM 012055-2RZ",
             "ManufacturerName": "SKF",
             "ManufacturerId": 1,
-            "$$hashKey": "uiGrid-01HU",
             "Active": "Y"
           }
         ]
@@ -261,7 +251,6 @@
             "Designation": "BEAM 012055-2RZ",
             "ManufacturerName": "SKF",
             "ManufacturerId": 1,
-            "$$hashKey": "uiGrid-01HU",
             "Active": "Y"
           },
           {
@@ -270,7 +259,6 @@
             "Designation": "BEAM 012055-2RZ",
             "ManufacturerName": "SKF",
             "ManufacturerId": 1,
-            "$$hashKey": "uiGrid-01HU",
             "Active": "Y"
           }
         ]
