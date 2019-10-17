@@ -264,5 +264,80 @@
         ]
       }
     }
-  ]
+  ],
+  "DriveShaft":[
+  {
+    "DriveShaftId": 43551,
+    "DriveShaftOrder": 1,
+    "DriveShaftName": "Input Shaft",
+    "DriveUnitId": 8846,
+    "RPM": null,
+    "DESelectedCount": 2,
+    "NDESelectedCount": 2,
+    "DriveEnd": [
+      {
+        "DriveShaftSideId": 204118,
+        "ShaftSide": "DE",
+        "Bearings": [
+          {
+            "BearingId": 1,
+            "ManufacturerId": 3,
+            "Designation": "YTC",
+            "BearingName": "Yet to Confirm",
+            "ManufacturerName": "Yet to Confirm",
+            "Active": "Y"
+          },
+          {
+            "BearingId": 73328,
+            "ManufacturerId": 1,
+            "Designation": "361895B",
+            "BearingName": "Deep groove ball",
+            "ManufacturerName": "SKF",
+            "Active": "Y"
+          },
+          {
+            "BearingId": 93049,
+            "ManufacturerId": 1,
+            "Designation": "361207 R",
+            "BearingName": "Cam rollers",
+            "ManufacturerName": "SKF",
+            "Active": "Y"
+          }
+        ]
+      }
+    ],
+    "NonDriveEnd": [
+      {
+        "DriveShaftSideId": 146351,
+        "ShaftSide": "NDE",
+        "Bearings": [
+          {
+            "BearingId": 1,
+            "ManufacturerId": 3,
+            "Designation": "YTC",
+            "BearingName": "Yet to Confirm",
+            "ManufacturerName": "Yet to Confirm",
+            "Active": "Y"
+          },
+          {
+            "BearingId": 73327,
+            "ManufacturerId": 1,
+            "Designation": "361844",
+            "BearingName": "Deep groove ball bearings",
+            "ManufacturerName": "SKF",
+            "Active": "Y"
+          },
+          {
+            "BearingId": 73326,
+            "ManufacturerId": 1,
+            "Designation": "361840",
+            "BearingName": "Deep groove ball bearings",
+            "ManufacturerName": "SKF",
+            "Active": "Y"
+          }
+        ]
+      }
+    ]
+  }
+]
 }
