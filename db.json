@@ -160,10 +160,8 @@
       "UnitType": "Intermediate",
       "ShaftName": "Input shaft",
       "ShaftNumber": 1,
-      "DESelectedCount": 0,
-      "NDESelectedCount": 0,
       "DriveEnd": {
-        "DriveShaftSideId": 1233,
+        "ShaftId": 1233,
         "ShaftSideId": 11,
         "ShaftSideCode": "DE",
         "Bearings": [
@@ -186,7 +184,7 @@
         ]
       },
       "NonDriveEnd": {
-        "DriveShaftSideId": 1233,
+        "ShaftId": 1233,
         "ShaftSideId": 12,
         "ShaftSideCode": "NDE",
         "Bearings": [
