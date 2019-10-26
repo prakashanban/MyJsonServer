@@ -7,42 +7,6 @@
     {
       "Id": 182,
       "Name": "RMS7AO"
-    },
-    {
-      "Id": 192,
-      "Name": "RMS87AO"
-    },
-    {
-      "Id": 186,
-      "Name": "RMS89AO"
-    },
-    {
-      "Id": 177,
-      "Name": "RMS8AO"
-    },
-    {
-      "Id": 168,
-      "Name": "RMS91AO"
-    },
-    {
-      "Id": 171,
-      "Name": "RMS94AO"
-    },
-    {
-      "Id": 187,
-      "Name": "RMS96AO"
-    },
-    {
-      "Id": 207,
-      "Name": "RMS9AO"
-    },
-    {
-      "Id": 172,
-      "Name": "RMSD2AO"
-    },
-    {
-      "Id": 173,
-      "Name": "RMSD3AO"
     }
   ],
   "Drive": [
